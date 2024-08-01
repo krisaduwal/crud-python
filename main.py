@@ -281,7 +281,31 @@
 # print(obj.year)
 
 
+# from draw import *
 
+# def play_game():
+#     print("play game")
+# def main():
+#     result = play_game()
+#     draw_game(result)
+
+# # if __name__ == '__main__':
+# #     main()
+
+
+# main()
+# from mymodule import person1
+# import platform
+
+# x = dir(platform)
+# print(x)
+# print(person1["age"])
+# a = mymodule.person1["age"]
+# print(a)
+# mymodule.greeting("krisa")
+import json
+
+x = '{"name": "krisa", "age": 22, "city": "new york"}'
 
 
 
